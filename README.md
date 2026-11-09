@@ -184,9 +184,9 @@ Issues found and fixed during verification:
 
 ## Author
 
-*Your Name* — *Your College / Department*
+*Barnomoy Mandal* 
 
 ## License
 
-Released for educational use. Add a license of your choice (for example MIT) if you publish this repository.
+Released for educational use. 
 
