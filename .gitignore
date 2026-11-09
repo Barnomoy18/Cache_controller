@@ -1,0 +1,14 @@
+# Vivado generated directories
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+.Xil/
+
+# Temporary files
+*.jou
+*.log
+*.str
+*.wdb
+*.tmp
